@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Generated output reports
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db

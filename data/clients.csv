@@ -1,0 +1,26 @@
+client_id,client_name,industry,contract_value,contract_end_date,days_since_last_contact,open_tickets,monthly_usage_pct,nps_score,onboarding_complete,escalations_last_90d,ai_interest
+C001,Crestline Bank,Banking,142000,2025-10-01,4,1,88,9,yes,0,in_pilot
+C002,Solara Financial,Banking,98000,2025-06-15,28,5,49,5,yes,3,none
+C003,Volterra Energy,Energy,75000,2025-08-30,6,0,91,9,yes,0,interested
+C004,Redstone Power,Energy,60000,2025-05-20,52,8,27,3,no,5,none
+C005,Linkvast Communications,Telecom,115000,2026-02-10,9,2,81,8,yes,1,adopted
+C006,Orbitel,Telecom,48000,2025-07-05,65,10,19,2,no,7,none
+C007,Prism Analytics,Technology,180000,2026-04-01,2,0,97,10,yes,0,adopted
+C008,Dataflow AI,Technology,95000,2025-09-22,14,2,68,7,yes,1,in_pilot
+C009,Nortek Capital,Banking,55000,2025-05-08,88,12,15,2,no,9,none
+C010,Apex Grid Solutions,Energy,130000,2025-12-18,11,1,85,8,yes,0,interested
+C011,Verabank Holdings,Banking,210000,2026-05-30,3,0,93,10,yes,0,adopted
+C012,Castlepoint Trust,Banking,67000,2025-11-10,33,4,55,6,yes,2,none
+C013,Solstice Power,Energy,88000,2026-01-15,7,1,79,8,yes,0,in_pilot
+C014,Irongate Utilities,Energy,44000,2025-06-03,70,9,21,2,no,6,none
+C015,Nexwave Mobile,Telecom,155000,2026-06-20,5,0,90,9,yes,0,adopted
+C016,Stratosphere ISP,Telecom,72000,2025-08-14,41,6,38,4,no,3,none
+C017,Pulsar Networks,Telecom,99000,2026-03-28,12,2,72,7,yes,1,interested
+C018,Helix Software,Technology,220000,2026-07-01,1,0,98,10,yes,0,adopted
+C019,Zenith Cloud,Technology,140000,2025-10-25,19,3,61,6,yes,2,in_pilot
+C020,Carepath Health,Healthcare,83000,2025-09-08,8,1,84,8,yes,0,interested
+C021,Lumina Medical,Healthcare,58000,2025-07-17,55,7,33,3,no,4,none
+C022,Meridian Wealth,Banking,175000,2026-02-28,6,0,87,9,yes,0,in_pilot
+C023,ClearVolt,Energy,51000,2025-05-30,80,11,16,2,no,8,none
+C024,Quantum Systems,Technology,195000,2026-08-15,4,0,94,10,yes,0,adopted
+C025,Bridgeway Health,Healthcare,110000,2025-12-05,16,2,75,7,yes,1,interested

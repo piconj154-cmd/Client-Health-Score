@@ -1,0 +1,5 @@
+# No external dependencies — uses Python standard library only
+# (csv, argparse, datetime are built-in)
+
+# Optional: install pytest to run tests
+pytest>=7.0
